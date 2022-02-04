@@ -13,5 +13,9 @@ public class MainClass {
         System.out.println("Hola Mundo!!");
         System.out.println("Hola soy Vicente");
         System.out.println("Rama desarrollo creada");
+        
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Bucle: " + i);
+        }
     }
 }
